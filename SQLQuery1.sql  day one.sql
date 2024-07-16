@@ -1,0 +1,15 @@
+--Microsoft SQL server
+--SSMS intro 
+--Database
+--Table
+--rows 
+--columns
+--How to comment in a database
+--Sessions 
+--How to login to the SQl
+--Instance  in sql server
+--RDBMS 
+--there is the intigration between the sql and the python  
+-- uses of the sql 
+-- dont compar the python and sql
+ 
