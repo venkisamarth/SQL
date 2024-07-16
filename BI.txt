@@ -1,0 +1,33 @@
+BI
+
+Tool -- and insights of data im visual foramte table 
+--collection Data
+--analysis od data 
+--presentation  will be provided Bisiness team
+
+collection of data -- companay database,polsData,Forms data,ERP and another
+
+Data cleansing -- modifying,Deleting or replacing the data ading some columns '
+
+Reporting /visulization --chart graphs,table etc
+
+Decision Making -- preditiong business trends,forcasting 
+
+-- qlik view
+-- Tableau
+-- IBM Congs 
+-- ZoHo Analystics 
+1 Affordability
+2 Natural Language Quary
+3 Real time Streaming 
+4 Customize 
+
+power bi suite
+ 
+
+
+
+
+
+
+
